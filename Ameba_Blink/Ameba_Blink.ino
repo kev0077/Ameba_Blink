@@ -1,4 +1,4 @@
-#define LED_1 LED_B
+#define LED_1 LED_G
 
 void setup() {
   // put your setup code here, to run once:
